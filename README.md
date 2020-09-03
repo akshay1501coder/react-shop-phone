@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view the output here:
+<a href='https://akki-react-phone-shop.netlify.app/'>Phone Store</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
